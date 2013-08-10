@@ -1,4 +1,4 @@
--- The PoissonGainNoise module computes f(x) =  x * Poisson(sigma)
+-- The PoissonGainNoise module computes f(x) =  x * Poisson(lambda)
 
 require 'torch'
 require 'torch-env'

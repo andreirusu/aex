@@ -1,6 +1,4 @@
--- The PoissonGainNoise module computes f(x) =  x * N(1, lambda^2)
--- where N the normal distribution. 
-
+-- The PoissonGainNoise module computes f(x) =  x * Poisson(sigma)
 
 require 'torch'
 require 'torch-env'
